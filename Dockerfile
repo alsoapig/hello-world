@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/k8s-dns-sidecar-amd64:1.14.8
+FROM k8s.gcr.io/kube-apiserver:v1.15.0
 MAINTAINER chaohuang2@iflytek.com
