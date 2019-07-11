@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-proxy:v1.15.0
+FROM k8s.gcr.io/pause:3.1
 MAINTAINER chaohuang2@iflytek.com
